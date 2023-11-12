@@ -43,7 +43,7 @@ In the repository files, you'll find `dotfiles` with the paths where theme modif
   - Dash to Dock
   - Rounded Window Corners
   - Vitals
-- Spotfy: Spicetify Text Theme (with custom colors)
+- Spotfy: Spicetify Text Theme (with custom colors) + Full App Display Modified
 - Terminal: Kitty/Oh My Bash (customized) powerline-multiline
 - Vs Code (solarized light are close to theme, but i prefer default dark modern)
 
