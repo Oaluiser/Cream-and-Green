@@ -50,17 +50,11 @@ In the repository files, you'll find `dotfiles` with the paths where theme modif
   - Dash to Dock
   - Rounded Window Corners
   - Vitals
-- Spotfy: Spicetify Text Theme (with custom colors) + Full App Display Modified
+- Spotfy: Spicetify Text Theme (with custom colors) + Full Screen
 - Terminal: Kitty/Oh My Bash (customized) powerline-multiline
 - Vs Code (solarized light are close to theme, but i prefer default dark modern)
 
-<div align="center">
-  <img src="/images/calendar.png" alt="Calendar" width="32%">
-  <img src="/images/quickMenu.png" alt="Menu" width="32%">
-  <img src="/images/popOsTiles.png" alt="PopOS" width="32%">
-</div>
-
-![Usage](/images/usage.png.png)
+![Usage](/images/usage.png)
 
 ## Theme Information
 
