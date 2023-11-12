@@ -1,12 +1,19 @@
 # Cream and Green
 
-This repository is a home for the "Cream and Green" theme that I've created and would like to share with others who might find it interesting. Below, you'll find some screenshots, color palettes, and a list of applications or extensions I used to achieve the results in the images. 
+This repository is a home for the "Cream and Green" theme that I've created and would like to share with others who might find it interesting. Below, you'll find some screenshots, color palettes, and a list of applications or extensions I used to achieve the results in the images.
 
 ## Screenshots
 
-![Desktop](/images/desktop.png)
-![Folders](/images/folders.png)
-![Calendar](/images/calendar.png)
+- Cream: ![#f5edd6](https://via.placeholder.com/15/f5edd6/000000?text=+) `#f5edd6`
+- CreamDark: ![#ebe3cc](https://via.placeholder.com/15/ebe3cc/000000?text=+) `#ebe3cc`
+- CreamDarker: ![#c2bba5](https://via.placeholder.com/15/c2bba5/000000?text=+) `#c2bba5`
+- Green: ![#85c24e](https://via.placeholder.com/15/85c24e/000000?text=+) `#85c24e`
+- GreenDark: ![#67a431](https://via.placeholder.com/15/67a431/000000?text=+) `#67a431`
+- GreenDarker: ![#63a02c](https://via.placeholder.com/15/63a02c/000000?text=+) `#63a02c`
+- Accent: ![#bd0a1e](https://via.placeholder.com/15/bd0a1e/000000?text=+) `#bd0a1e`
+- AccentDark: ![#ffb7a2](https://via.placeholder.com/15/ffb7a2/000000?text=+) `#ffb7a2`
+- Text: ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`
+- TextLight: ![#2c2c2c](https://via.placeholder.com/15/2c2c2c/000000?text=+) `#2c2c2c`
 
 ## Color Palette
 
