@@ -4,6 +4,13 @@ This repository is a home for the "Cream and Green" theme that I've created and 
 
 ## Screenshots
 
+![Desktop](/images/desktop.png)
+![Folders](/images/folders.png)
+![Apps](/images/apps.png)
+![Spotfy](/images/spotfy.png)
+
+## Color Palette
+
 - Cream: ![#f5edd6](https://via.placeholder.com/15/f5edd6/000000?text=+) `#f5edd6`
 - CreamDark: ![#ebe3cc](https://via.placeholder.com/15/ebe3cc/000000?text=+) `#ebe3cc`
 - CreamDarker: ![#c2bba5](https://via.placeholder.com/15/c2bba5/000000?text=+) `#c2bba5`
@@ -15,18 +22,14 @@ This repository is a home for the "Cream and Green" theme that I've created and 
 - Text: ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`
 - TextLight: ![#2c2c2c](https://via.placeholder.com/15/2c2c2c/000000?text=+) `#2c2c2c`
 
-## Color Palette
+## Instructions for Use
 
-- Cream: #f5edd6
-- CreamDark: #ebe3cc
-- CreamDarker: #c2bba5
-- Green: #85c24e
-- GreenDark: #67a431
-- GreenDarker: #63a02c
-- Accent: #bd0a1e
-- AccentDark: #ffb7a2
-- Text: #000000
-- TextLight: #2c2c2c
+In the repository files, you'll find `dotfiles` with the paths where theme modifications should be applied. Please note that it's recommended to create a backup of your current theme before proceeding. All tests were conducted using Arch Linux and Gnome. The file paths may vary depending on your installation.
+
+1. Locate the `dotfiles` in the repository.
+2. Copy the theme-related files.
+3. Paste the files into the corresponding locations on your system. Be cautious about the backup mentioned earlier.
+4. After applying the changes, log out and log in again to ensure that all modifications take effect.
 
 ## Applications and Extensions
 
@@ -41,7 +44,7 @@ This repository is a home for the "Cream and Green" theme that I've created and 
   - Rounded Window Corners
   - Vitals
 - Spotfy: Spicetify Text Theme (with custom colors)
-- Terminal: Kitty + Oh My Bash (customized)
+- Terminal: Kitty/Oh My Bash (customized) powerline-multiline
 - Vs Code (solarized light are close to theme, but i prefer default dark modern)
 
 ## Theme Information
