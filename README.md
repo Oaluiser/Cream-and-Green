@@ -11,8 +11,8 @@ This repository is a home for the "Cream and Green" theme that I've created and 
 ![Spotfy](/images/spotfy.png)
 
 <div align="center">
-  <img src="/images/Folders.png" alt="Desktop" width="48%">
-  <img src="/images/Apps.png" alt="TopBar" width="48%">
+  <img src="/images/folders.png" alt="Desktop" width="48%">
+  <img src="/images/apps.png" alt="TopBar" width="48%">
 </div>
 
 ## Color Palette
