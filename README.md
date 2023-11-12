@@ -10,6 +10,11 @@ This repository is a home for the "Cream and Green" theme that I've created and 
 ![Apps](/images/apps.png)
 ![Spotfy](/images/spotfy.png)
 
+<div align="center">
+  <img src="/images/Folders.png" alt="Desktop" width="48%">
+  <img src="/images/Apps.png" alt="TopBar" width="48%">
+</div>
+
 ## Color Palette
 
 - Cream: ![#f5edd6](https://via.placeholder.com/15/f5edd6/000000?text=+) `#f5edd6`
