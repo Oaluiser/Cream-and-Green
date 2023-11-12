@@ -5,6 +5,7 @@ This repository is a home for the "Cream and Green" theme that I've created and 
 ## Screenshots
 
 ![Desktop](/images/desktop.png)
+![TopBar](/images/topbar.png)
 ![Folders](/images/folders.png)
 ![Apps](/images/apps.png)
 ![Spotfy](/images/spotfy.png)
@@ -46,6 +47,12 @@ In the repository files, you'll find `dotfiles` with the paths where theme modif
 - Spotfy: Spicetify Text Theme (with custom colors) + Full App Display Modified
 - Terminal: Kitty/Oh My Bash (customized) powerline-multiline
 - Vs Code (solarized light are close to theme, but i prefer default dark modern)
+
+![Calendar](/images/calendar.png)
+![Kitty Terminal](/images/kittyTerminal.png)
+![PopOS](/images/popOsTiles.png)
+![Menu](/images/quickMenu.png)
+![SpotfyFull](/images/spotfyFull.png)
 
 ## Theme Information
 
