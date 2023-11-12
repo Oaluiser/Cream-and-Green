@@ -7,13 +7,13 @@ This repository is a home for the "Cream and Green" theme that I've created and 
 ![TopBar](/images/topbar.png)
 
 <div align="center">
-  <img src="/images/folders.png" alt="Folders" width="48%">
-  <img src="/images/apps.png" alt="Apps" width="48%">
+  <img src="/images/folders.png" alt="Folders" width="50%">
+  <img src="/images/apps.png" alt="Apps" width="50%">
 </div>
 
 <div align="center">
-  <img src="/images/desktop.png" alt="Desktop" width="48%">
-  <img src="/images/spotfy.png" alt="Spotfy" width="48%">
+  <img src="/images/desktop.png" alt="Desktop" width="50%">
+  <img src="/images/spotfy.png" alt="Spotfy" width="50%">
 </div>
 
 ## Color Palette
